@@ -1,4 +1,3 @@
-My first readme
 ![alt text](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
 # ALX  Pre-course
